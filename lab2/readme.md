@@ -27,6 +27,11 @@
 #### Data Representation: Numeric Conversions
 	When I used to count as a kid I would use my 10 fingers to count, and if I passed 10 I would use 1 finger to signify ten while I kept counting with the others. This is called base-ten, or the decimal number system that most people use to count. Unfortunatley computers can't understand base-ten so they use binary, or base-two which is made up of 0's and 1's. Hexadecimal is completely different from binary and decimal, and usees a base-sixteen system, which means there are sixteen different digits that can be in a single place. 
 
+#### Data Representation: Hexadecimal Color Representation
+	The RGB color space hex #ff016b is composed of 100% red, 0.4% green, and 42% blue, and is considered as Vivid Pink. 
+
+
+	The problem with using this color is that there isn't enough contrast between vivid pink and another color, and therefore might cause trouble for people with vision inpairments and color deficiencies. 
 
 
 
