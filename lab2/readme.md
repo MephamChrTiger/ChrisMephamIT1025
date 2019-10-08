@@ -24,6 +24,13 @@
 #### Hardware: IEEE - Ethically Aligned Design
 	IEEE is an association dedicated to advancing innovation and tech excellence for the benefit of humanity and is the world's largest professional society. IEEE (or Eye-triple-E) stands for the Institute of Electrical and Electronics Engineers. Design ethics concerns moral behavior and choices in designing anything. It guides how clients and end users of products interract with designers, like how to determine features or a product or how to assess the ethical and moral value of a product. This is important because it is the means of how scientific knowledge and technological possibilities are made into physical form and serve the desires of each person in each community. 
 
+#### Data Representation: Numeric Conversions
+	When I used to count as a kid I would use my 10 fingers to count, and if I passed 10 I would use 1 finger to signify ten while I kept counting with the others. This is called base-ten, or the decimal number system that most people use to count. Unfortunatley computers can't understand base-ten so they use binary, or base-two which is made up of 0's and 1's. Hexadecimal is completely different from binary and decimal, and usees a base-sixteen system, which means there are sixteen different digits that can be in a single place. 
+
+
+
+
+
 
 
 
