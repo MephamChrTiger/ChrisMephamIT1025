@@ -16,3 +16,10 @@
 #### Python
 
     Pseudocode in python is an informal high-level description of the operating principle of a computer programor other algorithm. It uses the structural conventions of normal programming, but is intended to be read by a user rather than the machine. Something that when read by a user can be understood and worked out just by reading it. Programs written in a compiled language like C or C++ is converted from the source language (c or c++) into a language that is spoken by your copmuter, like binary (1s and 0s). A benefit of python is that it does not need to convert to binary, you just run the code directly from the language itself. This also makes your programs much more portable since you can just copy and paste a python program into another computer and it will work!
+
+#### Career Exploration
+
+    
+
+
+
