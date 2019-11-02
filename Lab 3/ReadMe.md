@@ -1,5 +1,6 @@
 ## Summary
 
+  This Lab discusses the types of software (Operating System, Applications, and Utility) as well as touches on virtualization and the Python programming languages, listing their positive uses and explanations. In the career exploration section it goes over what I found in college central, co-ops, requirements, internships, and the student organizations at Tri-C.
 
 #### Software
   
@@ -27,11 +28,13 @@
 
     In order to be Co-Op ready, you have to be currently enrolled at Tri-C, have completed 12 credit hour of college coursework (including transfer credits) with at least two corses related to your major field. The last requirement is to have a GPA of 2.75 or higher. 
     
-#### Industry Associations / Student ORganizations
+#### Industry Associations / Student Organizations
 
     The Cybersecurity club at the Metro Campus would be important to join if you are pursuing a major in anything technology or programming related. This club focuses on cybersecurity and prepares students for the CCDC which is the Collegiate Cyber Defense Competition. It is an event that with an information assurance or controlled environment, helps assess their student's depth of understanding and operational competency. 
 
+### Conclusion 
 
+  This lab helped me discover college central, a very useful and expansive utility that used what I am currently pursuing career-wise and developed a list of internships and jobs within the criteria that I gave. Even though I have a little experience in Python, that was years ago and this gave me another glimpse of the language that I had thought I forgot about. It was interesting to find out about the different types of software as well as learn more about virtual machines and clubs here at Tri-C. 
 
 
 
