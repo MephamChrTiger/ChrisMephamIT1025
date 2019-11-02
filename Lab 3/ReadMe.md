@@ -17,9 +17,21 @@
 
     Pseudocode in python is an informal high-level description of the operating principle of a computer programor other algorithm. It uses the structural conventions of normal programming, but is intended to be read by a user rather than the machine. Something that when read by a user can be understood and worked out just by reading it. Programs written in a compiled language like C or C++ is converted from the source language (c or c++) into a language that is spoken by your copmuter, like binary (1s and 0s). A benefit of python is that it does not need to convert to binary, you just run the code directly from the language itself. This also makes your programs much more portable since you can just copy and paste a python program into another computer and it will work!
 
-#### Career Exploration
+### Career Exploration
 
+#### College Central
+
+    College Central is something I didn't even know existed and looks extremely helpful. When it comes to the internship search to find internships where I live and with keywords that really helps. Trying to find some with any other website doesn't really work that well. 
+
+#### Co-Ops / Internships
+
+    In order to be Co-Op ready, you have to be currently enrolled at Tri-C, have completed 12 credit hour of college coursework (including transfer credits) with at least two corses related to your major field. The last requirement is to have a GPA of 2.75 or higher. 
     
+#### Industry Associations / Student ORganizations
+
+    The Cybersecurity club at the Metro Campus would be important to join if you are pursuing a major in anything technology or programming related. This club focuses on cybersecurity and prepares students for the CCDC which is the Collegiate Cyber Defense Competition. It is an event that with an information assurance or controlled environment, helps assess their student's depth of understanding and operational competency. 
+
+
 
 
 
