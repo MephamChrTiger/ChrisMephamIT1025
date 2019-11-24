@@ -30,5 +30,7 @@
     E)Public key cryptography makes it so you don't need to smuggle the decryption key to the recipient of your secret message because that person already has the decryption key. The decryption key is their private key. Therefore, all you need to send a message is your recipient's matching public, encrypting key.
     
 #### Cryptography 
-    
-    
+    B) I moved the wheel back 1 space so that 'Z' was equal to 'A'. This encription method created en encryption where it moved the entire alphabet forward by 1 letter, so a=z, b=a, c=b, etc. 
+    C) In the frequency fingerprint exploration lab, which I thought was really cool, had each letter of the alphabet as a frequency range and after typing some sentances it gives me a cool frequency fingerprint that is unique to that code and sentence that can only be decrypted by the key. 
+    D) A polyalphabetic cipher is any cipher based on substitution, using multiple substitution alphabets. The Enigma machine (In the movie 'the imitation game') is more complex but is still fundamentally a polyalphabetic substitution cipher.
+    E) By analyzing the frequency found at different intervals you can see a patern emerge when you find the interval equal to the length of the code word then decrypt based on the known fingerprint of the language used. For example if the code word is four letters long and you check every other letter for frequency you get a flattened fingerprint, every third letter will also be inconclusive, but when you isolate every fourth letter and do a frequency analysis you will find a clear pattern emerge. Checking every fifth letter will aain give you an inconclusive result.
