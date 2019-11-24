@@ -20,3 +20,15 @@
     
 #### NSA/CSS 
     The NSA is the world leader in cryptology, which is the art and science of making and breaking codes. Through the technology and incredible people working for the NSA that allows them to accomplish the goals of discovering our enemies's secrets, protecting U.S. secrets, and outsmarting them in cyberspace while at the same time protecting the privacy rights of the American people.
+    
+### Cybersecurity and Encryption 
+#### Information Systems Security
+    A) By being an Amazon chat rep my job would be impacted by the triad in three ways; first because of confidentiality I can't disclose to others/customers what I talk about in those chats when helping customers as some contain credit card information and other sensative info. Second, integrity plays a big role especially in Amazon as when chatting with customers I need to know that the information being given is legit, as well as the information I give the customer needs to be legit and cannot be altered in any shape or form to benefit them or myself. Lastly, availability is something that when it comes to my job at Amazon I need 24 hours a day, 7 days a week. Availability refers to the availability of information to myself and other trained employees, and when it comes to my chat job I need this information all the time every day so if anything were to pop up from an incorrect order I would need to be able to access that order to help the customer. 
+    B) Three tasks during the day that might require authentication would be logging into your email, entering a restricted area in a hospital, and logging into an account for a gaming software or service. Using multi-factor authentication could be used for all of them, but the one I see most is a code being sent to your phone or a special pin you need to enter on top of a fingerprint to unlock special doors or log into your email or security software. 
+    C) ACL is better suited for implementing security at the individual user level and for low-level data, while RBAC better serves a company-wide security system with an overseeing administrator. An ACL can, for example, grant write access to a specific file, but it cannot determine how a user might change the file.
+    D) Ciphertext is encrypted text. Plaintext is what you have before encryption, and ciphertext is the encrypted result. In cryptography, ciphertext or cyphertext is the result of encryption performed using an algorithm, called a cipher. When using a public key, two keys are used one key is used for encryption and another key is used for decryption. One key (public key) is used for encrypt the plain text to convert it into cipher text and another key (private key) is used bu receiver to decrypt the cipher text to read the message.
+    E)Public key cryptography makes it so you don't need to smuggle the decryption key to the recipient of your secret message because that person already has the decryption key. The decryption key is their private key. Therefore, all you need to send a message is your recipient's matching public, encrypting key.
+    
+#### Cryptography 
+    
+    
