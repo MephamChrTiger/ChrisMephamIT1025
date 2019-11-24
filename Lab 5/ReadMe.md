@@ -17,3 +17,6 @@
     
 #### Network Design 
     My network design is a model of the LAN topology network diagram, where I had more of a cellular topology that relies on the location of wireless media hubs and switches. Troubleshooting is easy because each hub or switch interacts independently with each device. A cellular installation depends on the accessibility hub locations.
+    
+#### NSA/CSS 
+    The NSA is the world leader in cryptology, which is the art and science of making and breaking codes. Through the technology and incredible people working for the NSA that allows them to accomplish the goals of discovering our enemies's secrets, protecting U.S. secrets, and outsmarting them in cyberspace while at the same time protecting the privacy rights of the American people.
