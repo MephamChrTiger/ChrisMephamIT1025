@@ -36,3 +36,5 @@ For my web page I wanted to write about a subject that means a lot to me, tigers
 ##### HTML and XML
 The difference between HTML and XML is that HTML describes presentation and XML describes content. An HTML document rendered in a web browser is human readable. XML is aimed toward being both human and machine readable. 
 
+#### Components of a URL 
+Every URL begins with the scheme. This tells your browser what type of address it is so the browser connects to it correctly. The domain name is the most prominent part of a web address. Typically, different pages on the same site will continue to use the same domain name.  The top-level domain gives you more general information on what kind of site it is. Some URLs include a string of characters after the path—beginning with a question mark—called the parameter string.The anchor tells your browser to scroll to or load a specific part of the page. Usually the anchor begins with a hashtag and is used to direct your browser to a specific part of a very long page, like a bookmark.
