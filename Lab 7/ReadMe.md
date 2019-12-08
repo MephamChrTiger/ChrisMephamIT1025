@@ -17,3 +17,4 @@ i) The Object Management Group (OMG) is an international, open membership, not-f
 
 ii) An object is an instance of a class. This is the realized version of the class, where the class is manifested in the program. A class is a blueprint created by a programmer for an object. This defines a set of attributes that will characterize any object that is instantiated from this class. Through the process of abstraction, a programmer hides all but the relevant data about an object in order to reduce complexity and increase efficiency. Inheritance is where the mechanism of basing an object or class upon another object. Encapsulation binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse.
 
+### Conclusion
