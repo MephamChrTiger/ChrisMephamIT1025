@@ -14,5 +14,14 @@ i) Layers are important to changing technology because any of the layers/tasks c
 
 ii) The application layer provides full end-user access to a variety of shared network services for efficient OSI model data flow. This layer has many responsibilities, including error handling and recovery, data flow over a network and full network flow. It is also used to develop network-based applications. More than 15 protocols are used in the application layer, including File Transfer Protocol, Telnet, Trivial File Transfer Protocol and Simple Network Management Protocol.
 
-#### Internet Security
+##### Internet Security
 A) HTTP means HyperText Transfer Protocol. HTTP is the underlying protocol used by the World Wide Web and this protocol defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands. The HTTP protocol is a request/response protocol based on the client/server based architecture where web browsers, robots and search engines, etc. act like HTTP clients, and the Web server acts as a server.
+
+B) Hypertext Transfer Protocol Secure is an extension of the Hypertext Transfer Protocol (HTTP). It is used for secure communication over a computer network, and is widely used on the Internet. In HTTPS, the communication protocol is encrypted using Transport Layer Security 
+
+##### Securing Your Web Browser
+A) Not securing your web browser can lead quickly to a variety of computer problems caused by anything from spyware being installed without your knowledge to intruders taking control of your computer. Ideally, computer users should evaluate the risks from the software they use.
+
+B) JavaScript, also known as ECMAScript, is a scripting language that is used to make websites more interactive. There are specifications in the JavaScript standard that restrict certain features such as accessing local files. The ability to run a scripting language such as JavaScript or VBScript allows web page authors to add a significant amount of features and interactivity to a web page. However, this same capability can be abused by attackers. The default configuration for most web browsers enables scripting support, which can introduce multiple vulnerabilities.
+
+
