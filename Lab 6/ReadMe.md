@@ -30,4 +30,7 @@ A) W3C is led by Tim Berners-Lee, inventor of the World Wide Web and Director an
 
 B) The social value of the Web is that it enables human communication, commerce, and opportunities to share knowledge. One of W3C's primary goals is to make the benefits available to all people, whatever their hardware, software, network infrastructure, native language, culture, geographical location, or physical or mental ability.
 
+####  HTML5 and CSS
+For my web page I wanted to write about a subject that means a lot to me, tigers in the wild, or more specifically, the south chinese bengal tiger. Wild tigers are mostly thought to be extinct in the world unfortunately, but the world wildlife fund does such amazing work protecting tons of species and their habitats and raising cubs to be brought into the wild once again. They have programs where you can adobt a tiger, or any species of your choosing to help the foundation significantly. The tiger is at the top of the food chain in the wild and thus plays a critical role in the overall function of the ecosystem. Tigers are also a vital link in maintaining the rich biodiversity of nature. If we successfully protect just one tiger, we also protect around 25,000 acres of forest. For the title, background, and borders I used a mix of oranges to help strengthen the picture of the southern chinese tiger in the center of the image. I embeded a link to the WWF page on southern chinese tigers in he image, and centered the image on the page using css, so that it is the thing you see the most. 
+
 
