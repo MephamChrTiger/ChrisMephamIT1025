@@ -1,3 +1,5 @@
+### Executive Summary
+In this lab, there is a section on internet architecture, that explains internet protocol (IP) and its funcitons. After that TCP and IP is explained along internet security. The next half of the lab deals with internet programming, including sections with HTML and CSS, and creating your own web page in an editor such as notepad++ and styling it with CSS. Lastly the lab deals with file paths and property editing. 
 
 #### Internet Architecture 
 ##### Internet Protocol 
@@ -38,3 +40,6 @@ The difference between HTML and XML is that HTML describes presentation and XML 
 
 #### Components of a URL 
 Every URL begins with the scheme. This tells your browser what type of address it is so the browser connects to it correctly. The domain name is the most prominent part of a web address. Typically, different pages on the same site will continue to use the same domain name.  The top-level domain gives you more general information on what kind of site it is. Some URLs include a string of characters after the path—beginning with a question mark—called the parameter string.The anchor tells your browser to scroll to or load a specific part of the page. Usually the anchor begins with a hashtag and is used to direct your browser to a specific part of a very long page, like a bookmark.
+
+### Conclusion
+This lab was very interesting to learn about, especially about things that I see every day but don't normally think about such as HTTP and HTTPS, Internet protocol, and web pages that run on HTML and CSS. It was very helpful and interactive when I got a chance to create my wn web page with HTML and it was fun to style it with CSS. Learning about how to style and write HTML was very informative and a good experience, especially those who want a career in programming or web design. 
