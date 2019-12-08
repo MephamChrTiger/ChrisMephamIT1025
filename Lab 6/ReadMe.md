@@ -24,4 +24,10 @@ A) Not securing your web browser can lead quickly to a variety of computer probl
 
 B) JavaScript, also known as ECMAScript, is a scripting language that is used to make websites more interactive. There are specifications in the JavaScript standard that restrict certain features such as accessing local files. The ability to run a scripting language such as JavaScript or VBScript allows web page authors to add a significant amount of features and interactivity to a web page. However, this same capability can be abused by attackers. The default configuration for most web browsers enables scripting support, which can introduce multiple vulnerabilities.
 
+####  Internet Programming 
+##### World Wide Web Consortium
+A) W3C is led by Tim Berners-Lee, inventor of the World Wide Web and Director and Dr. Jeffrey Jaffe, W3C CEO. They are supported by a staff of technical experts who help coordinate technology development and manage the operations of the Consortium. The W3C mission is to lead the World Wide Web to its full potential by developing protocols and guidelines that ensure the long-term growth of the Web. Below we discuss important aspects of this mission, all of which further W3C's vision of One Web.
+
+B) The social value of the Web is that it enables human communication, commerce, and opportunities to share knowledge. One of W3C's primary goals is to make the benefits available to all people, whatever their hardware, software, network infrastructure, native language, culture, geographical location, or physical or mental ability.
+
 
