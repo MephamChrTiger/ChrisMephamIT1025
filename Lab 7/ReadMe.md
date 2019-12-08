@@ -1,4 +1,5 @@
 ### Executive Summary
+In this lab, we covered the general rules and explinations of file compression, and why you would use compression. I tested compression with ZIP folders and SVG pictures into ZIP folders as well. After that we covered Object oriented programming with python and created a new file called shark, and introduced and ran the ideas of object oriented programming. Lastly, we talked about unified modeling language and the object management group. 
 
 #### File Compression
 A) Essentially, there are two main types of file compression, lossless and lossy. Lossless compression takes your files and reduces their size without losing any information. Lossy compression reduces your file size by chopping off bits and pieces that aren't 100% necessary to function. By compressing your documents into one ZIP file, it will take up less space and transfer a lot faster. The recipient just needs to use a program like WinZip to extract the files and they'll have everything you sent them in one, organized folder.
@@ -18,3 +19,4 @@ i) The Object Management Group (OMG) is an international, open membership, not-f
 ii) An object is an instance of a class. This is the realized version of the class, where the class is manifested in the program. A class is a blueprint created by a programmer for an object. This defines a set of attributes that will characterize any object that is instantiated from this class. Through the process of abstraction, a programmer hides all but the relevant data about an object in order to reduce complexity and increase efficiency. Inheritance is where the mechanism of basing an object or class upon another object. Encapsulation binds together the data and functions that manipulate the data, and that keeps both safe from outside interference and misuse.
 
 ### Conclusion
+This lab was really fun for me, being able to create a simple python program with the concepts of object oriented programming that was simple but showed me the ins and outs of how everything worked and was used. UML and OMG was interesting to learn about and refering back to my shark program helped understand all the parts of OOP. 
