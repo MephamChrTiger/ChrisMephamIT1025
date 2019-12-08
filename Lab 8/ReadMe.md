@@ -12,3 +12,9 @@ iii) It is important to properly create the date field for each order because yo
 i) In most big data circles, these are called the four V’s: volume, variety, velocity, and veracity. The main characteristic that makes data “big” is the sheer volume. The main characteristic that makes data “big” is the sheer volume, where variety is one the most interesting developments in technology as more and more information is digitized. Veracity refers to the trustworthiness of the data, and velocity is the frequency of incoming data that needs to be processed.
  
 ii) People such as banks across the world have used Big Data technology to ensure customer loyalty. Banks while issuing credit cards have the luxury to analyze loads of information to reduce the chance of credit card fraud. Other companies such as facebook, a game changer in today’s modern world has been able to predict political opinion, intelligence and emotional stability of its users based on their activity on Facebook, all due to technological advances with big data. 
+
+#### Structured Query Language 
+
+a) RDBMS is a database management system. And SQL is the language used for communicating with data in an RDBMS. Or in the plain term, RDBMS is a book and SQL is the language being used in the book.
+
+b) The two tables that I chose are the orders table and the order details table. These two are related because the order details have everything that the order table needs to complete a legitimate order from a customer. 
