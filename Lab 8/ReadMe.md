@@ -1,4 +1,5 @@
 ### Executive Summary
+In this lab, we go over the importance of data, information, and knowledge, as well as relational data and big data and what they mean to you. After that, I went over SQL and databases for a short period and the structure of Query Language. Lastly we studied SQL injections and the Ethics of data and intelectual property rights.
 
 #### Data, Information and Knowledge 
 ##### Relational Data
@@ -40,3 +41,4 @@ Under information collection, there are four main big federal laws and regulatio
 
 
 ### Conclusion
+In this lab I learned a lot, and when I say that I mean it, I learned a lot that I didn't know and I am really glad I did. First, going over data and knowledge, especially big data and their technology really opened my eyes to what a company can accomplish with their data. Going over SQL and databases for a while also was a good refresher from back in high school, easy to understand, but a slight pain to remember. Lastly going over AUPs and intelectual property rights was a big one that I have heard about before but didn't really think was important. Going and reading one of my software's AUP was very informative and I learned things that I would have otherwise not knows since I don't regularly read them. 
