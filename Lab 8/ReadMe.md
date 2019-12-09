@@ -18,3 +18,8 @@ ii) People such as banks across the world have used Big Data technology to ensur
 a) RDBMS is a database management system. And SQL is the language used for communicating with data in an RDBMS. Or in the plain term, RDBMS is a book and SQL is the language being used in the book.
 
 b) The two tables that I chose are the orders table and the order details table. These two are related because the order details have everything that the order table needs to complete a legitimate order from a customer. 
+
+#### SQL Injections 
+SQL injection is a code injection technique that might destroy your database, is one of the most common web hacking techniques, and is the placement of malicious code in SQL statements, via web page input. SQL injection usually occurs when you ask a user for input, like their username/userid, and instead of a name/id, the user gives you an SQL statement that you will unknowingly run on your database. A hacker might get access to all the user names and passwords in a database, by simply inserting 105 OR 1=1 into the input field. One of the simplest things to do to reduce these attacks would be to assume all user-submitted data is evil so use input validation via a function such as MySQL's mysql_real_escape_string() to ensure that any dangerous characters such as ' are not passed to a SQL query in data. You should also sanitize everything by filtering user data by context.
+
+### Conclusion
