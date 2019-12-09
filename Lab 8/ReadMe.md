@@ -29,7 +29,14 @@ A code of ethics is a document that outlines a set of acceptable behaviors for a
 iii) One of the services that I use on almost a daily basis is a VPN called Tunnelbear. Under their Acceptable use policy I noticed a statement that was very interesting that most companies have, but I haven't really noticed (since I dont' read AUPs). It stated, "You agree that TunnelBear, in its sole discretion, for any or no reason, and without penalty, may terminate or suspend your use of the Service at any time. TunnelBear may also in its sole discretion and at any time discontinue the Services in their entirety, or any part thereof, with or without notice." or as they generoulsy wrote next to it, "We reserve the right to euthanize your TunnelBear." This is just interesting to me because they could with no warning and no consequence just terminate my account and service for absolutely no reason whatsoever.  (LINK - https://www.tunnelbear.com/terms-of-service )
 
 #### Intellectual Property 
-WIPO is the global forum for intellectual property (IP) services, policy, information and cooperation. Their mission is to lead the development of a balanced and effective international IP system that enables innovation and creativity for the benefit of all. 
+i) WIPO is the global forum for intellectual property (IP) services, policy, information and cooperation. Their mission is to lead the development of a balanced and effective international IP system that enables innovation and creativity for the benefit of all. 
+
+ii) The automatic creation of copyright protection in the United States began in 1978. Before 1978, statutory copyright was generally secured by the act of publishing a work with a notice of copyright on the work. If a work remained unpublished, others are free to use, take, copy, and steal your work, or any work that has no copyright to your name. 
+
+iii) Trademarks are distinctive indicators or signs that individuals, businesses, or other legal entities use. They use these indicators or signs to communicate that services or products to consumers that are connected to the trademarks stem from a unique source. 
+
+####  Information Collection
+Under information collection, there are four main big federal laws and regulations that are as follows; (HIPPA) Health Insurance Portability and Accountability Act. Gives parents rights to their student’s information, and governs how school health services share their data, (CIPA) Children’s Internet Protection Act. Requires the use of web filters on school computers. Without it we lose funding from eRate, (COPPA) Children’s Online Privacy Protection Act. Federal law that prevents collection of online data from persons under 13 years of age. This is why Apple requires you to be 13 years old before you can obtain an Apple ID, and last but not least (FERPA) Family Educational Rights and Privacy Act. Prevents disclosure of information on grades or behavior to anyone other than the student or parent.
 
 
 ### Conclusion
